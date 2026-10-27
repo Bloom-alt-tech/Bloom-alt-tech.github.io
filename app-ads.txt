@@ -1,0 +1,4 @@
+# Lets advertisers confirm that ads in Bloomlands are sold by its real owner (AdMob).
+# After you create your AdMob account, replace pub-0000000000000000 with your publisher ID
+# (AdMob → Settings → Account information), or send it to Claude to fill in.
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
