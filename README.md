@@ -1,1 +1,0 @@
-# Bloom-alt-tech.github.io
